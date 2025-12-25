@@ -109,7 +109,7 @@ npm test  # Run 19 passing tests
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=muratcankoylan/Agent-Skills-for-Context-Engineering&type=date&legend=top-left)](https://www.star-history.com/#muratcankoylan/Agent-Skills-for-Context-Engineering&type=date&legend=top-left)
+<img width="3664" height="2648" alt="star-history-20251225" src="https://github.com/user-attachments/assets/eedcb8d7-a2f9-4156-b762-03ebc4aef358" />
 
 ## Structure
 
