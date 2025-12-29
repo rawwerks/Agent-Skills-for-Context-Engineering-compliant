@@ -54,7 +54,7 @@ export default function PasswordPage() {
             className="h-12 w-auto mx-auto mb-8"
           />
           <h1 className="font-display text-2xl text-ink-primary mb-2">
-            Investor Preview
+            Preview
           </h1>
           <p className="text-ink-secondary text-base">
             This site is password protected.

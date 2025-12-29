@@ -761,8 +761,8 @@ export default function Home() {
                 </p>
                 
                 <p>
-                  <strong className="text-ink-primary">5 years B2B at Insider</strong> (Sequoia-backed unicorn) 
-                  Tmob, and Jonas Software. Uniquely combines technical engineering with GTM strategy.
+                  <strong className="text-ink-primary">5 years B2B at Insider (Sequoia-backed unicorn) 
+                  Tmob, and Jonas Software.</strong> Uniquely combines technical engineering with GTM strategy.
                 </p>
                 
                 <p>
