@@ -1,5 +1,5 @@
 ---
-name: skill-template
+name: template
 description: Template for creating new Agent Skills for context engineering. Use this template when adding new skills to the collection.
 ---
 
