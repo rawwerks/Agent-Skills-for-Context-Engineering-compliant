@@ -1,7 +1,6 @@
 ---
-name: digital-brain
+name: digital-brain-skill
 description: This skill should be used when the user asks to "write a post", "check my voice", "look up contact", "prepare for meeting", "weekly review", "track goals", or mentions personal brand, content creation, network management, or voice consistency.
-version: 1.0.0
 ---
 
 # Digital Brain
