@@ -1,6 +1,6 @@
 ---
 name: tool-design
-description: This skill should be used when the user asks to "design agent tools", "create tool descriptions", "reduce tool complexity", "implement MCP tools", or mentions tool consolidation, architectural reduction, tool naming conventions, or agent-tool interfaces.
+description: Contracts between deterministic systems and non-deterministic agents. Use when designing agent tools, creating tool descriptions, reducing tool complexity, implementing MCP tools, or applying tool consolidation and architectural reduction principles.
 ---
 
 # Tool Design for Agents

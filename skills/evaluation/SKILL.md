@@ -1,6 +1,6 @@
 ---
 name: evaluation
-description: This skill should be used when the user asks to "evaluate agent performance", "build test framework", "measure agent quality", "create evaluation rubrics", or mentions LLM-as-judge, multi-dimensional evaluation, agent testing, or quality gates for agent pipelines.
+description: Evaluation methods for agent systems that account for non-determinism and multiple valid paths. Use when evaluating agent performance, building test frameworks, measuring quality, creating evaluation rubrics, or implementing LLM-as-judge with multi-dimensional assessment.
 ---
 
 # Evaluation Methods for Agent Systems

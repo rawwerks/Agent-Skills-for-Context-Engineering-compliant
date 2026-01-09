@@ -1,6 +1,6 @@
 ---
 name: advanced-evaluation
-description: This skill should be used when the user asks to "implement LLM-as-judge", "compare model outputs", "create evaluation rubrics", "mitigate evaluation bias", or mentions direct scoring, pairwise comparison, position bias, evaluation pipelines, or automated quality assessment.
+description: Production-grade techniques for evaluating LLM outputs using LLMs as judges. Use when implementing LLM-as-judge, comparing model outputs, creating evaluation rubrics, mitigating evaluation bias, or building automated quality assessment pipelines.
 ---
 
 # Advanced Evaluation

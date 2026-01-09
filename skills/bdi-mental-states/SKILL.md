@@ -1,6 +1,6 @@
 ---
 name: bdi-mental-states
-description: This skill should be used when the user asks to "model agent mental states", "implement BDI architecture", "create belief-desire-intention models", "transform RDF to beliefs", "build cognitive agent", or mentions BDI ontology, mental state modeling, rational agency, or neuro-symbolic AI integration.
+description: Transforms external RDF context into agent mental states (beliefs, desires, intentions) using formal BDI ontology patterns. Use when modeling agent mental states, implementing BDI architecture, transforming RDF to beliefs, or building cognitive agents with neuro-symbolic AI integration.
 ---
 
 # BDI Mental State Modeling
