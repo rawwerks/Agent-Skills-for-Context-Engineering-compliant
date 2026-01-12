@@ -1,6 +1,6 @@
 ---
-name: "context-engineering"
-description: "A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effective context management."
+name: context-engineering
+description: A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effective context management.
 ---
 
 # Agent Skills for Context Engineering

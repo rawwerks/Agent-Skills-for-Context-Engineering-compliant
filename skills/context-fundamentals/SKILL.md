@@ -1,6 +1,6 @@
 ---
-name: "context-fundamentals"
-description: "Complete state available to a language model at inference time, including system instructions, tool definitions, retrieved documents, and message history. Use when understanding context, explaining context windows, designing agent architecture, or learning progressive disclosure and context budgeting."
+name: context-fundamentals
+description: Complete state available to a language model at inference time, including system instructions, tool definitions, retrieved documents, and message history. Use when understanding context, explaining context windows, designing agent architecture, or learning progressive disclosure and context budgeting.
 ---
 
 # Context Engineering Fundamentals

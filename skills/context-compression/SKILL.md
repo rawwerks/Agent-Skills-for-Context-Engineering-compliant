@@ -1,6 +1,6 @@
 ---
-name: "context-compression"
-description: "Strategies for compressing context when agent sessions exceed limits. Use when compressing context, summarizing conversation history, implementing compaction, reducing token usage, or optimizing tokens-per-task for long-running agent sessions."
+name: context-compression
+description: Strategies for compressing context when agent sessions exceed limits. Use when compressing context, summarizing conversation history, implementing compaction, reducing token usage, or optimizing tokens-per-task for long-running agent sessions.
 ---
 
 # Context Compression Strategies

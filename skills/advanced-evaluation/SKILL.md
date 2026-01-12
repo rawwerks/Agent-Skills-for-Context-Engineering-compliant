@@ -1,6 +1,6 @@
 ---
-name: "advanced-evaluation"
-description: "Production-grade techniques for evaluating LLM outputs using LLMs as judges. Use when implementing LLM-as-judge, comparing model outputs, creating evaluation rubrics, mitigating evaluation bias, or building automated quality assessment pipelines."
+name: advanced-evaluation
+description: Production-grade techniques for evaluating LLM outputs using LLMs as judges. Use when implementing LLM-as-judge, comparing model outputs, creating evaluation rubrics, mitigating evaluation bias, or building automated quality assessment pipelines.
 ---
 
 # Advanced Evaluation

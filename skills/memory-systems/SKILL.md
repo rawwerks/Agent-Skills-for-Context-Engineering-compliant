@@ -1,6 +1,6 @@
 ---
-name: "memory-systems"
-description: "Persistence layer that allows agents to maintain continuity across sessions and reason over accumulated knowledge. Use when implementing agent memory, persisting state across sessions, building knowledge graphs, or tracking entities with temporal validity."
+name: memory-systems
+description: Persistence layer that allows agents to maintain continuity across sessions and reason over accumulated knowledge. Use when implementing agent memory, persisting state across sessions, building knowledge graphs, or tracking entities with temporal validity.
 ---
 
 # Memory System Design

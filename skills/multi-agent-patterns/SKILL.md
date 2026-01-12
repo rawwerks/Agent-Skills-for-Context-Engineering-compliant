@@ -1,6 +1,6 @@
 ---
-name: "multi-agent-patterns"
-description: "Distributes work across multiple language model instances with isolated context windows. Use when designing multi-agent systems, implementing supervisor or swarm patterns, coordinating multiple agents, or enabling context isolation through parallel agent execution."
+name: multi-agent-patterns
+description: Distributes work across multiple language model instances with isolated context windows. Use when designing multi-agent systems, implementing supervisor or swarm patterns, coordinating multiple agents, or enabling context isolation through parallel agent execution.
 ---
 
 # Multi-Agent Architecture Patterns

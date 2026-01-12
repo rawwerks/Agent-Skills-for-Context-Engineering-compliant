@@ -1,6 +1,6 @@
 ---
-name: "project-development"
-description: "Covers principles for identifying tasks suited to LLM processing, designing effective project architectures, and iterating rapidly using agent-assisted development. Use when starting LLM projects, designing batch pipelines, evaluating task-model fit, or planning agent system architecture."
+name: project-development
+description: Covers principles for identifying tasks suited to LLM processing, designing effective project architectures, and iterating rapidly using agent-assisted development. Use when starting LLM projects, designing batch pipelines, evaluating task-model fit, or planning agent system architecture.
 ---
 
 # Project Development Methodology
