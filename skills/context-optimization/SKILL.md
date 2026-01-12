@@ -1,6 +1,6 @@
 ---
-name: context-optimization
-description: Extends effective capacity of limited context windows through strategic compression, masking, caching, and partitioning. Use when optimizing context, reducing token costs, implementing KV-cache optimization, or extending effective context capacity.
+name: "context-optimization"
+description: "Extends effective capacity of limited context windows through strategic compression, masking, caching, and partitioning. Use when optimizing context, reducing token costs, implementing KV-cache optimization, or extending effective context capacity."
 ---
 
 # Context Optimization Techniques

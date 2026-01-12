@@ -1,6 +1,6 @@
 ---
-name: context-degradation
-description: Predictable degradation patterns as context length increases, including lost-in-middle phenomena and context poisoning. Use when diagnosing context problems, fixing lost-in-middle issues, debugging agent failures, or understanding attention patterns and context confusion.
+name: "context-degradation"
+description: "Predictable degradation patterns as context length increases, including lost-in-middle phenomena and context poisoning. Use when diagnosing context problems, fixing lost-in-middle issues, debugging agent failures, or understanding attention patterns and context confusion."
 ---
 
 # Context Degradation Patterns

@@ -1,6 +1,6 @@
 ---
-name: evaluation
-description: Evaluation methods for agent systems that account for non-determinism and multiple valid paths. Use when evaluating agent performance, building test frameworks, measuring quality, creating evaluation rubrics, or implementing LLM-as-judge with multi-dimensional assessment.
+name: "evaluation"
+description: "Evaluation methods for agent systems that account for non-determinism and multiple valid paths. Use when evaluating agent performance, building test frameworks, measuring quality, creating evaluation rubrics, or implementing LLM-as-judge with multi-dimensional assessment."
 ---
 
 # Evaluation Methods for Agent Systems

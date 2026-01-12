@@ -1,6 +1,6 @@
 ---
-name: tool-design
-description: Contracts between deterministic systems and non-deterministic agents. Use when designing agent tools, creating tool descriptions, reducing tool complexity, implementing MCP tools, or applying tool consolidation and architectural reduction principles.
+name: "tool-design"
+description: "Contracts between deterministic systems and non-deterministic agents. Use when designing agent tools, creating tool descriptions, reducing tool complexity, implementing MCP tools, or applying tool consolidation and architectural reduction principles."
 ---
 
 # Tool Design for Agents
