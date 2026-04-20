@@ -1,4 +1,5 @@
 ---
+name: agent-skills-for-context-engineering-compliant
 description: A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effective context management.
 ---
 
